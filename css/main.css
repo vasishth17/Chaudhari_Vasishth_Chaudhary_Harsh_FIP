@@ -216,6 +216,20 @@ margin-bottom: 15px;
             }
 
             .italic {
-                font-size: 25px;
+                font-size: 20px;
+            }
+
+            .bold {
+                font-size: 35px;
+            }
+
+            .hover-text {
+                color: orangered;
+                transition: 0.3s;
+                font-size: 30px;
+            }
+
+            .hover-text:hover {
+                color: orange;
             }
 
