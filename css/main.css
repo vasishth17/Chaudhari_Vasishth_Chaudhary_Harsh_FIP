@@ -309,3 +309,34 @@ header{
                 font-size: 25px;
             }
 
+            .italic {
+              font-size: 20px;
+              margin-bottom: 10px;
+          }
+
+          .bold-ITALIC {
+              color: orangered;
+              transition: 0.3s;
+              font-size: 30px;
+              margin-top: 30px;
+              margin-bottom: 30px;
+          }
+          
+          .bold-ITALIC:hover {
+              color: orange;
+          }
+
+          
+          
+
+          .hover-text {
+              color: orangered;
+              transition: 0.3s;
+              font-size: 30px;
+              margin-top: 25px;
+              margin-bottom: 25px;
+          }
+
+          .hover-text:hover {
+              color: orange;
+            }
