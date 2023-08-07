@@ -58,6 +58,8 @@ html {
   
   .col-span-2 {
     grid-column: span 2 / span 2;
+    align-items: center;
+    justify-content: center;
   }
   
   .col-span-3 {
