@@ -5,12 +5,12 @@ div,p,body,header,footer,section,article,nav ,h1,h2,h3,h4,h5{
 }	
 
 img { 
-	border: none; /Remove border if image is a link/
+	border: none; /*Remove border if image is a link*/
 	margin: 0; 
 	padding: 0; 
 }
 
-/html selectors/
+/*html selectors*/
 
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
