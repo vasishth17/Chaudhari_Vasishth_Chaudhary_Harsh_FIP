@@ -40,6 +40,7 @@ a {
 
 .text{
   margin-bottom: 10px;
+  margin-top: 40px;
 }
 
 .exp-btn{
@@ -117,6 +118,14 @@ header{
     text-align: center;
     justify-content: center;
   }
+  .con-us{
+    width: 1080px;
+  }
+  .img-hover{
+    transition: transform 0.3s;
+  }
+.img-hover:hover{
+  transform: scale(1.2);}
 
   .custom-button {
     display: inline-block;
@@ -133,6 +142,7 @@ header{
     background-color: #000;
     color: #fff;
     border-color: #000;
+    cursor: pointer;
   }
 
   form {
